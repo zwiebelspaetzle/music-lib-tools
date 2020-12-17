@@ -1,3 +1,9 @@
+# reports, working files, artifacts, etc.
+*.csv
+*.txt
+*.xml
+music/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
